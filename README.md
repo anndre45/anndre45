@@ -6,4 +6,33 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anndre45&show_icons=true&count_private=true&hide_border=true&title_color=D43647&icon_color=D43647&text_color=D43647&bg_color=0d1117" alt="André Almeida github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndre45&layout=compact&hide_border=true&title_color=D43647&text_color=D43647&bg_color=0d1117" />
 </div>
-<br>
+<hr>
+  <div style="display: inline_block">
+    <h3 align="center">Main Skills → Data Analyst</h3>
+    <img align="center" alt="Andre-Python" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">-
+    <img align="center" alt="Andre-aws" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+    <img align="center" alt="Andre-Sqlite" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">-
+    <img align="center" alt="Andre-Streamlit" height="100" width="140" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png">-
+    <img align="center" alt="Andre-selenium" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">-
+    <img align="center" alt="Andre-pandas" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">-
+    <img align="center" alt="Andre-numpy" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+  </div>
+<hr>
+<div style="display: inline_block">
+  <h3 align="center">My other skills</h3>
+  <img align="center" alt="Andre-Figma" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">-
+  <img align="center" alt="Andre-HTML" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">-
+  <img align="center" alt="Andre-CSS" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">-
+  <img align="center" alt="Andre-JS" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-
+  <img align="center" alt="Andre-Opencv" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">-
+  <img align="center" alt="Andre-PoweBI" height="100" width="130" src="https://logos-marques.com/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png">-
+  <img align="center" alt="Andre-QT" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
+</div>
+
+
+
+<div align="center"> 
+  <h2>Get in touch</h2>
+  <a href = "mailto:contatolucasmaclean@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-     badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andregonalmeida/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
