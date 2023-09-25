@@ -40,5 +40,4 @@
   <a href = "mailto:ajalmeida3@gmail.com"> <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andregonalmeida/" target="_blank"><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 </div>
-<hr>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D43647&height=120&section=footer"/>
