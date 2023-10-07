@@ -32,7 +32,7 @@
 <div align="center">
   <h3 align="center">Studying at this Moment:</h3>
   <img align="center" alt="Andre-docker" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">-
-  <img align="center" alt="Andre-OpenSearch" height="100" width="130" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Opensearch_Logo.svg">
+  <img align="center" alt="Andre-Flet" height="100" width="130" src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg">
 </div>
 <hr>
 <div align="center"> 
