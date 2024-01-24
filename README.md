@@ -32,7 +32,9 @@
 <div align="center">
   <h3 align="center">Studying at this Moment:</h3>
   <img align="center" alt="Andre-docker" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">-
-  <img align="center" alt="Andre-Flet" height="100" width="130" src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg">
+  <img align="center" alt="Andre-Flet" height="100" width="130" src="https://raw.githubusercontent.com/flet-dev/flet/main/media/logo/flet-logo.svg">-
+  <img align="center" alt="Andre-Flutter-Flow" height="100" width="130" src="https://app.flutterflow.io/icons/ff-icon-192.png">-
+  <img align="center" alt="Andre-Flutter" height="100" width="130" src="https://web-strapi.mrmilu.com/uploads/flutter_logo_470e9f7491.png">
 </div>
 <hr>
 <div align="center"> 
