@@ -8,11 +8,10 @@
 </div>
 <hr>
   <div align="center" style="display: inline_block">
-    <h3 align="center">Main Skills → Data Analyst</h3>
+    <h3 align="center">Main Skills</h3>
     <img align="center" alt="Andre-Python" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">-
     <img align="center" alt="Andre-aws" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">-
     <img align="center" alt="Andre-Sqlite" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">-
-    <img align="center" alt="Andre-Streamlit" height="100" width="140" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png">-
     <img align="center" alt="Andre-pandas" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> <br>
     <img align="center" alt="Andre-selenium" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"> - 
     <img align="center" alt="Andre-numpy" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">-
