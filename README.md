@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D43647&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+André+Almeida;I'm+26+years+old;I'm+from+Brazil;I+love+working+with+data;Hope+you+enjoy+my+profile:%29)](https://git.io/typing-svg)<br><br><br>
 
+<div>
+<a href="https://github.com/anndre45">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndre45&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anndre45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <hr>
   <div align="center" style="display: inline_block">
     <h3 align="center">Main Skills</h3>
