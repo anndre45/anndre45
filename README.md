@@ -21,16 +21,26 @@
 ---
 
 <div align="center">
-<a href="https://github.com/anndre45">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndre45&layout=compact&langs_count=8&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anndre45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img loading="lazy" height="180em"
+src="https://github-readme-stats.vercel.app/api?username=anndre45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img loading="lazy" height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndre45&layout=compact&langs_count=8&theme=dracula"/>
+
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anndre45&theme=dracula" />
+
+<img src="https://streak-stats.demolab.com?user=anndre45&theme=dracula"/>
+
 </div>
+
+<br>
+
+[![Andre's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anndre45&theme=dracula)](https://github.com/anndre45)
 
 ---
 
