@@ -30,11 +30,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndre45&lay
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anndre45&theme=dracula"/>
+![Profile Views](https://komarev.com/ghpvc/?username=anndre45&color=D43647)
 
 </div>
 
