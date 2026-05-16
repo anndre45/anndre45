@@ -1,47 +1,139 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D43647&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D43647&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+André+Almeida;I'm+27+years+old;I'm+from+Brazil;I+love+working+with+data;Hope+you+enjoy+my+profile:%29)](https://git.io/typing-svg)<br><br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D43647&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+André+Almeida;Data+Analyst+%7C+Python+Developer;Building+Apps+with+Flutter;Automation+%26+Cloud+Enthusiast;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-<div  align="center">
+<br>
+
+<div align="center">
+
+### 🚀 About Me
+
+💻 Data Analyst & Developer from Brazil  
+📊 Passionate about Data, Automation and Technology  
+🐍 Strong experience with Python, Power BI and ETL processes  
+📱 Building cross-platform mobile apps with Flutter  
+☁️ Studying Cloud Architecture, AWS and Data Engineering  
+🧠 Currently focused on scalable systems, APIs and AI/ML  
+🚀 Entrepreneur mindset with interest in SaaS products and startups  
+
+</div>
+
+---
+
+<div align="center">
 <a href="https://github.com/anndre45">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndre45&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndre45&layout=compact&langs_count=8&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anndre45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<hr>
-  <div align="center" style="display: inline_block">
-    <h3 align="center">Main Skills</h3>
-    <img align="center" alt="Andre-Python" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">-
-    <img align="center" alt="Andre-aws" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">-
-    <img align="center" alt="Andre-Sqlite" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">-
-    <img align="center" alt="Andre-pandas" height="100" width="130" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/dart/dart-original-wordmark.svg"> <br>
-    <img align="center" alt="Andre-selenium" height="100" width="130" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/flutter/flutter-original.svg"> - 
-    <img align="center" alt="Andre-numpy" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">-
-    <img align="center" alt="Andre-PoweBI" height="100" width="130" src="https://logos-marques.com/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png">-
-    <img align="center" alt="Andre-Figma" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  </div>
-<hr>
-<div align="center" style="display: inline_block">
-  <h3 align="center">My other skills</h3>
-  <img align="center" alt="Andre-HTML" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">-
-  <img align="center" alt="Andre-CSS" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">-
-  <img align="center" alt="Andre-JS" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-
-  <img align="center" alt="Andre-Opencv" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg">-
-  <img align="center" alt="Andre-QT" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
-</div>
-<hr>
+<br>
+
 <div align="center">
-  <h3 align="center">Studying at this Moment:</h3>
-  <img align="center" alt="Andre-docker" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">-
-  <img align="center" alt="Andre-PyTorch" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg">-
-  <img align="center" alt="Andre-ScikitLearn" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">-
-  <img align="center" alt="Andre-TensorFlow" height="100" width="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
-">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anndre45&theme=dracula" />
 </div>
-<hr>
+
+---
+
+# 🛠 Main Stack
+
+<div align="center">
+
+<img align="center" alt="Python" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="center" alt="AWS" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+<img align="center" alt="SQLite" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
+<img align="center" alt="Dart" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg"/>
+<img align="center" alt="Flutter" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
+<img align="center" alt="Numpy" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg"/>
+<img align="center" alt="PowerBI" height="90" width="110" src="https://logos-marques.com/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png"/>
+<img align="center" alt="Figma" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+
+</div>
+
+---
+
+# ⚡ What I Build
+
+<div align="center">
+
+📊 Interactive dashboards and business intelligence solutions  
+⚙️ Data pipelines and ETL automations  
+☁️ Cloud integrations using AWS services  
+🕷 Web scraping and large-scale data collection  
+📱 Cross-platform mobile applications with Flutter  
+🔌 API integrations and backend automations  
+📈 Data analysis and operational insights  
+🚀 SaaS products focused on productivity and data  
+
+</div>
+
+---
+
+# 🧰 Technologies & Tools
+
+<div align="center">
+
+<img align="center" alt="Python" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+<img align="center" alt="Flutter" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/>
+<img align="center" alt="Dart" height="90" width="110" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg"/>
+<img align="center" alt="AWS" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
+<img align="center" alt="Docker" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="center" alt="Git" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="center" alt="SQLite" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
+
+</div>
+
+---
+
+# ☁️ Currently Studying
+
+<div align="center">
+
+<img align="center" alt="Docker" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="center" alt="PyTorch" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg"/>
+<img align="center" alt="ScikitLearn" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+<img align="center" alt="TensorFlow" height="90" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+
+</div>
+
+---
+
+# 🚀 Featured Interests
+
+<div align="center">
+
+📈 Data Science  
+🤖 Artificial Intelligence  
+📱 Mobile Development  
+☁️ Cloud Computing  
+⚙️ Process Automation  
+📊 Business Intelligence  
+🏗 Scalable SaaS Systems  
+🧠 Machine Learning  
+
+</div>
+
+---
+
+# 📫 Get in Touch
+
 <div align="center"> 
-  <h2>Get in touch</h2>
-  <a href = "mailto:ajalmeida3@gmail.com"> <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andregonalmeida/" target="_blank"><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+
+<a href="mailto:ajalmeida3@gmail.com">
+<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+</a>
+
+<a href="https://www.linkedin.com/in/andregonalmeida/" target="_blank">
+<img height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+</a>
+
 </div>
+
+---
+
+<div align="center">
+
+### 💡 “Technology is best when it empowers people and solves real problems.”
+
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D43647&height=120&section=footer"/>
