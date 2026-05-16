@@ -20,8 +20,6 @@
 
 ---
 
----
-
 # 🛠 Main Stack
 
 <div align="center">
