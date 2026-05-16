@@ -20,26 +20,6 @@
 
 ---
 
-<div align="center">
-
-<img loading="lazy" height="180em"
-src="https://github-readme-stats.vercel.app/api?username=anndre45&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img loading="lazy" height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndre45&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=anndre45&color=D43647)
-
-</div>
-
-<br>
-
-[![Andre's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anndre45&theme=dracula)](https://github.com/anndre45)
-
 ---
 
 # 🛠 Main Stack
